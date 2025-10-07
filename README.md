@@ -70,8 +70,9 @@ Currently focused on frontend development, UX, and clean architecture.
 <h3 align="center">Let’s connect!</h3>
 
 <p align="center">
-  <img src="http://dl4.glitter-graphics.net/pub/536/536374qelg9xv2hk.gif" width="27" height="25" />
-  rpascual06@outlook.com  
+  <a href="mailto:rpascual06@outlook.com">
+    <img src="http://dl4.glitter-graphics.net/pub/536/536374qelg9xv2hk.gif" width="27" height="25" />
+  </a>
 </p>
 
 <p align="center">
