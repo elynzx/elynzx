@@ -79,10 +79,6 @@ Currently focused on frontend development, UX, and clean architecture.
   <a href="https://linkedin.com/in/evelynpascualc">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://tiktok.com/@_elynzx">
-    <img src="https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white" />
-  </a>
-</p>
 
 <p align="center">
   <img src="http://dl4.glitter-graphics.net/pub/493/493254uhpm9tl406.gif" width="40" height="40" />
