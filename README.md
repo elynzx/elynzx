@@ -1,58 +1,46 @@
-<p align="center">
-  <img src="http://dl4.glitter-graphics.net/pub/994/994064xtdtdpuui3.gif" width="125"  />
-</p>
-<h1 align="center"><img src="https://dl.glitter-graphics.com/pub/440/440576q8wrax7se2.gif" width="19" height="19" /> hey, i'm Evelyn! </h1>
+<h1 align="center">Hey, I'm Evelyn <img src="http://dl3.glitter-graphics.net/pub/2946/2946603oxs3dp0zxb.gif" width=30 height=30 border=0></h1>
 
 <p align="center">
-I love building thoughtful web experiences, exploring new technologies, and designing with intention.  
-Currently focused on frontend development, UX, and clean architecture. 
+Frontend developer focused on building robust, user-centric web applications. Currently strengthening my full-stack capabilities with React and Java Spring Boot, with growing experience in Python. I'm passionate about writing clean code, solving technical challenges, and continuously improving my development skills.
 </p>
 
-### What I'm up to:
+## What I'm Working On
 
-- <img src="http://dl7.glitter-graphics.net/pub/1089/1089407r9iq6lcouz.gif" width="37" height="19" /> Building **LUMINA**, a web platform for event venue rentals  
-  <img src="http://dl6.glitter-graphics.net/pub/638/638146kvkkfs33zm.gif" width="10" height="10" /> Frontend in **React**, backend in **Spring Boot**  
+LUMINA - Event Venue Rental Platform
+Full-stack web application for event space management and reservations
+- 🔧 React • Spring Boot • MySQL • RESTful APIs • Tailwind CSS
+- 📌 Features: Authentication, booking system, payment integration, responsive design
 
-- Developing **Intelligent Personal Financial Management System**  
-  <img src="http://dl6.glitter-graphics.net/pub/638/638146kvkkfs33zm.gif" width="10" height="10" /> First project with Python, focusing on **architecture** while strengthening **data analysis** and **ML skills**  
-  <img src="http://dl6.glitter-graphics.net/pub/638/638146kvkkfs33zm.gif" width="10" height="10" /> Features: **predictive analysis**, **pattern detection**, **anomaly detection**, and **budget optimization**  
-  <img src="http://dl6.glitter-graphics.net/pub/638/638146kvkkfs33zm.gif" width="10" height="10" /> Dashboard for managing accounts (bank, credit cards, cash, apps) and visualizing recommendations in real time  
- 
-- I’m diving deeper into **advanced React patterns**, focusing on modularity, state management, and scalable architecture.  
-- Exploring design systems, emotional branding, and user-centered flows  
+Fintrack - Personal Finance Manager
+Intelligent financial management system with predictive analytics
+- 🔧 Python • Streamlit • ML
+- 📌 Features: Transaction tracking, budget optimization, pattern detection, real-time dashboard
 
----
+## Tech Stack
 
-### Tech Stack
+**Frontend**  
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-<p>
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/sql-%2300f.svg?style=for-the-badge&logo=database&logoColor=white" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+**Backend**  
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
----
+**Database & Tools**  
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-<h3 align="center">Let’s connect!</h3>
+## Currently Learning
 
-<p align="center">
-  <a href="mailto:rpascual06@outlook.com">
-    <img src="http://dl4.glitter-graphics.net/pub/536/536374qelg9xv2hk.gif" width="27" height="25" />
-  </a>
-</p>
+- Advanced React patterns and state management (Context API, custom hooks)
+- Building scalable REST APIs with Spring Boot
+- Python backend development with Flask/FastAPI
 
-<p align="center">
-  <a href="https://linkedin.com/in/evelynpascualc">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
-  </a>
+## Let's Connect
 
-<p align="center">
-  <img src="http://dl4.glitter-graphics.net/pub/493/493254uhpm9tl406.gif" width="40" height="40" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/evelynpascualc)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rpascual06@outlook.com)
