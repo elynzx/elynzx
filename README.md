@@ -1,8 +1,10 @@
 <h1 align="center">Hey, I'm Evelyn <img src="http://dl3.glitter-graphics.net/pub/2946/2946603oxs3dp0zxb.gif" width=30 height=30 border=0></h1>
 
-<p align="center">
-Frontend developer focused on building robust, user-centric web applications. Currently strengthening my full-stack capabilities with React and Java Spring Boot, with growing experience in Python. I'm passionate about writing clean code, solving technical challenges, and continuously improving my development skills.
-</p>
+Systems Engineering student with a goal-oriented mindset. I enjoy solving problems, delivering working solutions, and collaborating with others to build things that matter. 
+
+Currently strengthening my full-stack capabilities with React and Java Spring Boot, with growing experience in Python.
+
+
 
 ## What I'm Working On
 
