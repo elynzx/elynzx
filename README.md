@@ -4,9 +4,7 @@ Systems Engineering student with a goal-oriented mindset. I enjoy solving proble
 
 Currently strengthening my full-stack capabilities with React and Java Spring Boot, with growing experience in Python.
 
-
-
-## What I'm Working On
+## Latest projects
 
 LUMINA - Event Venue Rental Platform
 Full-stack web application for event space management and reservations
@@ -41,8 +39,3 @@ Intelligent financial management system with predictive analytics
 - Advanced React patterns and state management (Context API, custom hooks)
 - Building scalable REST APIs with Spring Boot
 - Python backend development with Flask/FastAPI
-
-## Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/evelynpascualc)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rpascual06@outlook.com)
