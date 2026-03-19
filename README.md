@@ -1,10 +1,23 @@
-<h1 align="center">Hey, I'm Evelyn <img src="http://dl3.glitter-graphics.net/pub/2946/2946603oxs3dp0zxb.gif" width=30 height=30 border=0></h1>
+<h1 align="center">Hey, I'm Evelyn <img src="http://dl3.glitter-graphics.net/pub/2946/2946603oxs3dp0zxb.gif" width=30 height=30></h1>
 
-Systems Engineering student with a goal-oriented mindset. I enjoy solving problems, delivering working solutions, and collaborating with others to build things that matter. 
+<p align="center">
+  <b>Systems Engineering Student | Full Stack Developer Trainee</b><br>
+  I build software with a structural and UX-first mindset.
+</p>
 
-Currently strengthening my full-stack capabilities with React and Java Spring Boot, with growing experience in Python.
+---
 
-## Latest projects
+### About Me
+
+- With a background in architectural 3D design, I bring a unique "client-first" perspective to software—prioritizing needs and UX before the first line of code.
+- Currently in the **Top 10%** of my class, balancing my degree with advanced Full Stack studies.
+- Proud volunteer at **IEEE Women in Engineering (WIE)**, supporting diversity in the tech ecosystem.
+- Currently Learning:
+  - Advanced **React patterns** (Context API, custom hooks).
+
+---
+
+### Latest Projects
 
 LUMINA - Event Venue Rental Platform
 Full-stack web application for event space management and reservations
@@ -16,26 +29,23 @@ Intelligent financial management system with predictive analytics
 - 🔧 Python • Streamlit • ML
 - 📌 Features: Transaction tracking, budget optimization, pattern detection, real-time dashboard
 
-## Tech Stack
+---
+
+### Tech Stack
 
 **Frontend**  
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 **Backend**  
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-**Database & Tools**  
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-## Currently Learning
+**Database & Tools**
 
-- Advanced React patterns and state management (Context API, custom hooks)
-- Building scalable REST APIs with Spring Boot
-- Python backend development with Flask/FastAPI
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![Docker](https://img.shields.io) :whale:
+---
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/evelynpascualc/">LinkedIn</a>
