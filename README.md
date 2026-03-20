@@ -9,7 +9,7 @@
 
 ### About Me
 
-- With a background in architectural 3D design, I bring a unique "client-first" perspective to software—prioritizing needs and UX before the first line of code.
+- With a background in architectural 3D design, I bring a unique "client-first" perspective to software, prioritizing needs and UX before the first line of code.
 - Currently in the **Top 10%** of my class, balancing my degree with advanced Full Stack studies.
 - Proud volunteer at **IEEE Women in Engineering (WIE)**, supporting diversity in the tech ecosystem.
 - Currently Learning:
