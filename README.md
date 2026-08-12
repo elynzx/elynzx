@@ -11,7 +11,7 @@
 
 - With a background in architectural 3D design, I bring a unique "client-first" perspective to software, prioritizing needs and UX before the first line of code.
 - Currently in the **Top 10%** of my class, balancing my degree with advanced Full Stack studies.
-- Proud volunteer at **IEEE Women in Engineering (WIE)**, supporting diversity in the tech ecosystem.
+- Volunteer at **IEEE Women in Engineering (WIE)** STEAM Academy Committee, delivering tech and engineering workshops for schools to foster diversity in STEM.
 - Currently Learning:
   - Advanced **React patterns** (Context API, custom hooks).
 
