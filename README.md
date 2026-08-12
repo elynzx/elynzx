@@ -17,20 +17,6 @@
 
 ---
 
-### Latest Projects
-
-LUMINA - Event Venue Rental Platform
-Full-stack web application for event space management and reservations
-- 🔧 React • Spring Boot • MySQL • RESTful APIs • Tailwind CSS
-- 📌 Features: Authentication, booking system, payment integration, responsive design
-
-Fintrack - Personal Finance Manager
-Intelligent financial management system with predictive analytics
-- 🔧 Python • Streamlit • ML
-- 📌 Features: Transaction tracking, budget optimization, pattern detection, real-time dashboard
-
----
-
 ### Tech Stack
 
 **Frontend**  
