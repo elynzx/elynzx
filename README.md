@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Evelyn <img src="http://dl3.glitter-graphics.net/pub/2946/2946603oxs3dp0zxb.gif" width=30 height=30></h1>
 
 <p align="center">
-  <b>Systems Engineering Student | Full Stack Developer Trainee</b><br>
+  <b>Full Stack Developer | Systems Engineering Student </b><br>
   I build software with a structural and UX-first mindset.
 </p>
 
