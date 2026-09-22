@@ -18,4 +18,4 @@
 ---
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/evelynpascualc/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/evelynpascual/">LinkedIn</a>
